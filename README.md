@@ -26,11 +26,9 @@ https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews
 
 Developed to replace the Legacy Pagecounts API, has mobile and desktop data from mid 2015 to the present. The data is more granular; with respect to this project, filterable by three access-types: mobile-web, mobile-app, and desktop. The data is also filterable by "true" (organic) traffic users, and also all traffic (even containing crawlers, etc.). This project takes advantage of the former filter for this API. Unlike the Pagecounts API, this API is still being maintained. 
 
-## Repository Structure 
-
-
-
 ## Usage Guidelines 
 ### Licences
+Text from Wikimedia, and its derivatives are available under the Creative Commons 3.0 Attribution-ShareAlike License. 
+This project is released under an MIT License 
 ### Attribution 
 We respectfully ask that you acknowledge Wikipedia, the Wikimedia Foundation, and associated APIs as sources wherever possible, in order to preserve links to the datasets.
